@@ -90,8 +90,7 @@ function buildManifest(
     manifest_version: 3,
     name: 'MadHeader',
     version,
-    description:
-      'Override HTTP request and response headers using preset configurations.',
+    description: 'Override HTTP request headers with presets.',
     action: {
       default_title: 'MadHeader',
       default_popup: 'popup.html',
